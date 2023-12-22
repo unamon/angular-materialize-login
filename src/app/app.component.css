@@ -1,0 +1,24 @@
+.title { 
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-top: 0;
+}
+.vers { 
+    text-align: center; font-size: .70rem; color: black; display: block; margin-top: 1rem;
+}
+/* .card-panel { 
+    margin-top: 10rem;
+} */
+
+.card-action { 
+    display: flex; justify-content: center;
+}
+
+.label { 
+    display: block;
+    margin: 1rem auto;
+}
+.btn-entrar { 
+    width: 80%;
+}
